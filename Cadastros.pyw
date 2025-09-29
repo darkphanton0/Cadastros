@@ -6,8 +6,8 @@ import os
 import sys
 import base64
 import tempfile
-from atualizacao import verificar_atualizacao
-verificar_atualizacao()
+from atualizacao import verificar_e_atualizar
+verificar_e_atualizar()
 
 # ---------------- Ícone embutido ----------------
 icone_base64 = """
