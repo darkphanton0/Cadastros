@@ -287,8 +287,8 @@ tree.bind("<Double-1>", copiar_ncm)
 # Botões de ação
 frame_botoes = ctk.CTkFrame(root)
 frame_botoes.pack(pady=5)
-ctk.CTkButton(frame_botoes, text="Cadastrar Novo Produto (f2)", command=abrir_cadastro).grid(row=0, column=0, padx=5)
-ctk.CTkButton(frame_botoes, text="Editar", command=abrir_edicao).grid(row=0, column=1, padx=5)
+ctk.CTkButton(frame_botoes, text="Cadastrar Novo Produto (F2)", command=abrir_cadastro).grid(row=0, column=0, padx=5)
+ctk.CTkButton(frame_botoes, text="Editar (F3)", command=abrir_edicao).grid(row=0, column=1, padx=5)
 ctk.CTkButton(frame_botoes, text="Excluir", command=excluir_produto).grid(row=0, column=2, padx=5)
 
 # Atalhos
@@ -301,4 +301,5 @@ produtos = carregar_produtos()
 pesquisar_produto()
 
 root.mainloop()
+
 
