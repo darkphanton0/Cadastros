@@ -1,0 +1,33 @@
+[
+    {
+        "ncm": "1234",
+        "descricao": "TESTE",
+        "classificacao": "teste",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL"
+    },
+    {
+        "ncm": "1234",
+        "descricao": "TESTE 2",
+        "pis_cofins": "MONOFASICO",
+        "icms": "ST"
+    },
+    {
+        "ncm": "2202.10.00",
+        "descricao": "TEST 3",
+        "pis_cofins": "NORMAL",
+        "icms": "ST"
+    },
+    {
+        "ncm": "22021000",
+        "descricao": "REFRIGERANTE",
+        "pis_cofins": "MONOFASICO",
+        "icms": "ST"
+    },
+    {
+        "ncm": "2201",
+        "descricao": "AGUA MINERAL C/S GAS",
+        "pis_cofins": "MONOFASICO",
+        "icms": "ST"
+    }
+]
