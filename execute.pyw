@@ -1,61 +1,71 @@
-import os
-import sys
 import requests
-from tkinter import messagebox, Tk
+import os
+import subprocess
+import sys
+import tkinter as tk
+from tkinter import messagebox
 
 # ---------------- Configurações ----------------
-ARQUIVOS = {
-    "Cadastros.pyw": "https://raw.githubusercontent.com/darkphanton0/Cadastros/main/Cadastros.pyw",
-    "produtos.json": "https://raw.githubusercontent.com/darkphanton0/Cadastros/main/produtos.json",
-    "readme.txt": "https://raw.githubusercontent.com/darkphanton0/Cadastros/main/readme.txt",
-    "requisitos.bat": "https://raw.githubusercontent.com/darkphanton0/Cadastros/main/requisitos.bat",
-    "versão.txt": "https://raw.githubusercontent.com/darkphanton0/Cadastros/main/versão.txt"
-}
-VERSAO_LOCAL = "versão.txt"
-
-# Inicializa Tk para messagebox
-root = Tk()
-root.withdraw()
+GITHUB_API_URL = "https://api.github.com/repos/darkphanton0/Cadastros/releases/latest"
+VERSAO_LOCAL = "versao.txt"
+CADASTRO_LOCAL = "Cadastros.pyw"
+PRODUTOS_LOCAL = "produtos.json"
 
 # ---------------- Funções ----------------
-def baixar_arquivo(url, destino):
-    try:
-        r = requests.get(url)
-        r.raise_for_status()
-        with open(destino, "wb") as f:
-            f.write(r.content)
-        return True
-    except Exception as e:
-        messagebox.showerror("Erro", f"Erro ao baixar {destino}:\n{e}")
-        return False
+def obter_versao_local():
+    if os.path.exists(VERSAO_LOCAL):
+        with open(VERSAO_LOCAL, "r", encoding="utf-8") as f:
+            return f.read().strip()
+    return "0.0"
+
+def salvar_versao_local(versao):
+    with open(VERSAO_LOCAL, "w", encoding="utf-8") as f:
+        f.write(versao)
 
 def verificar_e_atualizar():
-    # Baixa a versão do servidor
-    versao_temp = "versao_servidor.txt"
-    if not baixar_arquivo(ARQUIVOS["versão.txt"], versao_temp):
-        return
-    
-    # Lê versões
-    versao_nova = open(versao_temp, "r", encoding="utf-8").read().strip()
-    versao_atual = open(VERSAO_LOCAL, "r", encoding="utf-8").read().strip() if os.path.exists(VERSAO_LOCAL) else ""
-    
-    if versao_nova != versao_atual:
-        if messagebox.askyesno("Atualização", f"Nova versão detectada ({versao_nova}). Deseja atualizar?"):
-            # Baixa todos os arquivos
-            for nome, url in ARQUIVOS.items():
-                if nome != "versão.txt":  # já lemos a versão separadamente
-                    baixar_arquivo(url, nome)
-            # Atualiza a versão local
-            with open(VERSAO_LOCAL, "w", encoding="utf-8") as f:
-                f.write(versao_nova)
-            messagebox.showinfo("Atualização", "Atualização concluída!")
-    os.remove(versao_temp)
+    try:
+        # Obter info da última release
+        response = requests.get(GITHUB_API_URL, timeout=10)
+        response.raise_for_status()
+        release_data = response.json()
 
-# ---------------- Execução ----------------
+        versao_remota = release_data["tag_name"].lstrip("v")  # Ex: "v1.2" -> "1.2"
+        versao_local = obter_versao_local()
+
+        if versao_remota != versao_local:
+            root = tk.Tk()
+            root.withdraw()
+            if messagebox.askyesno("Atualização encontrada",
+                                   f"Nova versão {versao_remota} disponível.\nDeseja atualizar agora?"):
+                for asset in release_data["assets"]:
+                    nome_arquivo = asset["name"]
+                    url_download = asset["browser_download_url"]
+
+                    print(f"Baixando {nome_arquivo}...")
+                    r = requests.get(url_download, stream=True)
+                    r.raise_for_status()
+                    with open(nome_arquivo, "wb") as f:
+                        for chunk in r.iter_content(1024):
+                            f.write(chunk)
+                    print(f"{nome_arquivo} atualizado com sucesso!")
+
+                salvar_versao_local(versao_remota)
+                messagebox.showinfo("Atualização concluída",
+                                    f"O sistema foi atualizado para a versão {versao_remota}.")
+            root.destroy()
+        else:
+            print("Nenhuma atualização encontrada.")
+
+    except Exception as e:
+        print("Erro ao verificar atualização:", e)
+
+def iniciar_cadastro():
+    if os.path.exists(CADASTRO_LOCAL):
+        subprocess.Popen([sys.executable, CADASTRO_LOCAL])
+    else:
+        messagebox.showerror("Erro", f"Arquivo {CADASTRO_LOCAL} não encontrado!")
+
+# ---------------- Programa principal ----------------
 if __name__ == "__main__":
     verificar_e_atualizar()
-    # Executa o Cadastros.pyw atualizado
-    if os.path.exists("Cadastros.pyw"):
-        os.system(f'start "" "{os.path.abspath("Cadastros.pyw")}"')
-    else:
-        messagebox.showerror("Erro", "Arquivo Cadastros.pyw não encontrado!")
+    iniciar_cadastro()
