@@ -1,227 +1,227 @@
 [
     {
-        "ncm": "2202.10.00",
+        "ncm": "22021000",
         "descricao": "REFRIGERANTES (GERAL)",
         "pis_cofins": "MONOFASICO",
         "icms": "ST",
         "natureza_receita": "004"
     },
     {
-        "ncm": "2201.10.00",
+        "ncm": "22011000",
         "descricao": "AGUA MINERAL C/S GAS",
         "pis_cofins": "MONOFASICO",
         "icms": "ST",
         "natureza_receita": "004"
     },
     {
-        "ncm": "1806.10.00",
+        "ncm": "18061000",
         "descricao": "ACHOCOLATADOS EM PO",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "2202.99.00",
+        "ncm": "22029900",
         "descricao": "ACHOCOLATADO LIQ",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "2202.99.00",
+        "ncm": "22029900",
         "descricao": "SUCO ADES",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "2202.99.00",
+        "ncm": "22029900",
         "descricao": "ENERGETICO",
         "pis_cofins": "MONOFASICO",
         "icms": "ST",
         "natureza_receita": "004"
     },
     {
-        "ncm": "2202.99.00",
+        "ncm": "22029900",
         "descricao": "BEBIDA LACTEA",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "2202.99.00",
+        "ncm": "22029900",
         "descricao": "DANETTE",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "2202.10.00",
+        "ncm": "22021000",
         "descricao": "CHA LIQ",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "004"
     },
     {
-        "ncm": "2202.10.00",
+        "ncm": "22021000",
         "descricao": "REFRESCO",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "2202.10.00",
+        "ncm": "22021000",
         "descricao": "KAPO",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "004"
     },
     {
-        "ncm": "2203.00.00",
+        "ncm": "22030000",
         "descricao": "CERVEJA",
         "pis_cofins": "MONOFASICO",
         "icms": "ST",
-        "natureza_receita": ""
+        "natureza_receita": "004"
     },
     {
-        "ncm": "3304.30.00",
+        "ncm": "33043000",
         "descricao": "ACETONA",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "2814.20.00",
+        "ncm": "28142000",
         "descricao": "AMONIA",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "3305.90.00",
+        "ncm": "33059000",
         "descricao": "CONDICIONADOR",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "3304.30.00",
+        "ncm": "33043000",
         "descricao": "AMOLECEDOR DE CUTICULA",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "3303.00.20",
+        "ncm": "33030020",
         "descricao": "COLONIA",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "3307.20.10",
+        "ncm": "33072010",
         "descricao": "DESODORANTE",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "3304.99.90",
+        "ncm": "33049990",
         "descricao": "BRONZEADOR",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "3304.30.00",
+        "ncm": "33043000",
         "descricao": "ESMALTE",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "3304.30.00",
+        "ncm": "33043000",
         "descricao": "REMOVEDOR DE ESMALTE",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "3304.99.90",
+        "ncm": "33049990",
         "descricao": "PROTETOR SOLAR",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "3304.99.90",
+        "ncm": "33049990",
         "descricao": "DEMAQUILANTE",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "0401.20.10",
+        "ncm": "04012010",
         "descricao": "LEITE (UHT)",
         "pis_cofins": "NORMAL",
         "icms": "ST",
         "natureza_receita": ""
     },
     {
-        "ncm": "3307.20.90",
+        "ncm": "33072090",
         "descricao": "TALCO",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
         "ncm": "3307.20.10",
         "descricao": "TONICO FACIAL",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
         "ncm": "3304.20.90",
         "descricao": "BRUMA FACIAL",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
         "ncm": "3304.99.90",
         "descricao": "MASCARA FACIAL",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "3305.90.00",
+        "ncm": "33059000",
         "descricao": "OLEO CAPILAR",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "3304.99.90",
+        "ncm": "33049990",
         "descricao": "OLEO FACIAL",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "3307.20.90",
+        "ncm": "33072090",
         "descricao": "HIDRATANTE",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "3307.10.00",
+        "ncm": "33071000",
         "descricao": "ESPUMA PARA BARBEAR",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
         "ncm": "0207.14.00",
@@ -231,18 +231,18 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "3307.20.90",
+        "ncm": "33072090",
         "descricao": "TENYS PE",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "3307.20.10",
+        "ncm": "33072010",
         "descricao": "LEITE DE ROSAS",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
         "ncm": "3307.90.00",
@@ -252,18 +252,18 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "9619.00.00",
+        "ncm": "96190000",
         "descricao": "ABSORVENTE",
         "pis_cofins": "NORMAL",
         "icms": "ST",
         "natureza_receita": ""
     },
     {
-        "ncm": "9603.21.00",
+        "ncm": "96032100",
         "descricao": "ESCOVA DENTAL",
         "pis_cofins": "MONOFASICO",
         "icms": "ST",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
         "ncm": "2207.20.19",
@@ -273,21 +273,21 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "8539.52.00",
+        "ncm": "85395200",
         "descricao": "LAMPADAS DE LED",
         "pis_cofins": "NORMAL",
         "icms": "ST",
         "natureza_receita": ""
     },
     {
-        "ncm": "8506.10.20",
+        "ncm": "85061020",
         "descricao": "PILHA",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "1704.90.20",
+        "ncm": "17049020",
         "descricao": "BALA",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
@@ -301,25 +301,25 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "3305.90.00",
+        "ncm": "33059000",
         "descricao": "CREME CAPILAR",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "3401.11.90",
+        "ncm": "34011190",
         "descricao": "LENÇO/TOALHA UMIDECIDA",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "3401.11.90",
+        "ncm": "34011190",
         "descricao": "SABONETE",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
         "ncm": "3305.90.00",
@@ -329,46 +329,46 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "3305.90.00",
+        "ncm": "33059000",
         "descricao": "MASCARA CAPILAR",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "2403.19.00",
+        "ncm": "24031900",
         "descricao": "FUMO DESFIADO",
         "pis_cofins": "NORMAL",
         "icms": "ST",
         "natureza_receita": ""
     },
     {
-        "ncm": "2106.90.90",
+        "ncm": "21069090",
         "descricao": "ADOCANTE LIQ",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "2202.10.00",
+        "ncm": "21012010",
         "descricao": "CHA EM SACHE",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "2710.19.99",
+        "ncm": "27101999",
         "descricao": "OLEO DE PEROBA",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "3401.30.00",
+        "ncm": "34013000",
         "descricao": "AGUA MICELAR",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
         "ncm": "9504.40.00",
@@ -385,46 +385,46 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "5601.21.90",
+        "ncm": "56012190",
         "descricao": "HASTES FLEXIVEIS",
         "pis_cofins": "NORMAL",
         "icms": "ST",
         "natureza_receita": ""
     },
     {
-        "ncm": "5601.21.90",
+        "ncm": "96132000",
         "descricao": "ISQUEIRO",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "2902.90.20",
+        "ncm": "29029020",
         "descricao": "NAFTALINA",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "3401.30.00",
+        "ncm": "34013000",
         "descricao": "SABONETE LIQ",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "2207.90.19",
+        "ncm": "22079019",
         "descricao": "ALCOOL EM GEL",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "2207.20.19",
+        "ncm": "22072019",
         "descricao": "ALCOOL",
         "pis_cofins": "MONOFASICO",
         "icms": "ST",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
         "ncm": "2202.99.00",
@@ -434,56 +434,56 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "3305.90.00",
+        "ncm": "33059000",
         "descricao": "TONICO CAPILAR",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "1905.32.00",
-        "descricao": "BISCOITO",
+        "ncm": "19053200",
+        "descricao": "WAFER",
         "pis_cofins": "NORMAL",
         "icms": "ST",
         "natureza_receita": ""
     },
     {
-        "ncm": "6402.20.00",
+        "ncm": "64022000",
         "descricao": "CHINELO",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "5601.21.10",
+        "ncm": "56012110",
         "descricao": "ALGODAO",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "3809.91.90",
+        "ncm": "38099190",
         "descricao": "AMACIANTE",
         "pis_cofins": "NORMAL",
         "icms": "ST",
         "natureza_receita": ""
     },
     {
-        "ncm": "1108.12.00",
+        "ncm": "11081200",
         "descricao": "AMIDO DE MILHO",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "1005.90.10",
+        "ncm": "10059010",
         "descricao": "MILHO DE PIPOCA",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "3306.10.00",
+        "ncm": "33061000",
         "descricao": "CREME DENTAL",
         "pis_cofins": "NORMAL",
         "icms": "ST",
@@ -497,14 +497,14 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "1701.91.00",
+        "ncm": "17019900",
         "descricao": "AÇUCAR",
         "pis_cofins": "NORMAL",
         "icms": "ST",
         "natureza_receita": ""
     },
     {
-        "ncm": "2828.90.11",
+        "ncm": "28289011",
         "descricao": "ALVEJANTE/BRANQUEADOR",
         "pis_cofins": "NORMAL",
         "icms": "ST",
@@ -518,28 +518,28 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "1509.20.00",
-        "descricao": "AZEITE DE OLIVA (ATÉ 5L)",
+        "ncm": "15092000",
+        "descricao": "AZEITE DE OLIVA EXTRA VIRGEM (ATÉ 5L)",
         "pis_cofins": "NORMAL",
         "icms": "ST",
         "natureza_receita": ""
     },
     {
-        "ncm": "3402.50.00",
+        "ncm": "34025000",
         "descricao": "DETERGENTES EM PO, FLOCOS, ETC...",
         "pis_cofins": "NORMAL",
         "icms": "ST",
         "natureza_receita": ""
     },
     {
-        "ncm": "3401.20.90",
+        "ncm": "34012090",
         "descricao": "DESINFETANTES E SANITIZANTES, TODOS LÍQUIDOS PARA LAVAR ROUPAS",
         "pis_cofins": "NORMAL",
         "icms": "ST",
         "natureza_receita": ""
     },
     {
-        "ncm": "1102.20.00",
+        "ncm": "11022000",
         "descricao": "FUBA DE MILHO",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
@@ -553,7 +553,7 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "1507.90.11",
+        "ncm": "15079011",
         "descricao": "OLEO DE SOJA",
         "pis_cofins": "NORMAL",
         "icms": "ST",
@@ -567,7 +567,7 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "2208.30.20",
+        "ncm": "22083020",
         "descricao": "WHISKY",
         "pis_cofins": "NORMAL",
         "icms": "ST",
@@ -588,14 +588,14 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "2202.10.00",
+        "ncm": "22021000",
         "descricao": "AGUA TONICA",
         "pis_cofins": "MONOFASICO",
         "icms": "ST",
-        "natureza_receita": ""
+        "natureza_receita": "004"
     },
     {
-        "ncm": "3306.90.00",
+        "ncm": "33069000",
         "descricao": "ANTISEPTICO BUCAL",
         "pis_cofins": "NORMAL",
         "icms": "ST",
@@ -634,7 +634,7 @@
         "descricao": "GATORADE",
         "pis_cofins": "MONOFASICO",
         "icms": "ST",
-        "natureza_receita": ""
+        "natureza_receita": "004"
     },
     {
         "ncm": "3307.49.00",
@@ -644,28 +644,28 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "3304.99.90",
+        "ncm": "33049990",
         "descricao": "ESFOLIANTE",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "002"
     },
     {
-        "ncm": "1404.90.90",
+        "ncm": "14049090",
         "descricao": "BUCHA VEGETAL",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "8481.10.00",
+        "ncm": "84811000",
         "descricao": "REGULADOR DE GAS",
         "pis_cofins": "MONOFASICO",
         "icms": "NORMAL",
-        "natureza_receita": ""
+        "natureza_receita": "003"
     },
     {
-        "ncm": "3402.90.29",
+        "ncm": "34029029",
         "descricao": "ESPUMA MAGICA",
         "pis_cofins": "NORMAL",
         "icms": "ST",
@@ -679,15 +679,15 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "3808.91.19",
+        "ncm": "38089119",
         "descricao": "INSETICIDA",
         "pis_cofins": "NORMAL",
         "icms": "NORMAL",
         "natureza_receita": ""
     },
     {
-        "ncm": "3402.90.39",
-        "descricao": "LIMP CERAMICA",
+        "ncm": "34029039",
+        "descricao": "LIMPA CERAMICA",
         "pis_cofins": "NORMAL",
         "icms": "ST",
         "natureza_receita": ""
@@ -700,14 +700,14 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "2710.19.31",
+        "ncm": "27101931",
         "descricao": "LUBRIFICANTE MULTIUSO",
         "pis_cofins": "NORMAL",
         "icms": "ST",
         "natureza_receita": ""
     },
     {
-        "ncm": "1901.20.00",
+        "ncm": "19012000",
         "descricao": "MISTURA PARA BOLO",
         "pis_cofins": "NORMAL",
         "icms": "ST",
@@ -728,7 +728,7 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "1101.00.10",
+        "ncm": "11010010",
         "descricao": "FARINHA DE TRIGO",
         "pis_cofins": "NORMAL",
         "icms": "ST",
@@ -742,7 +742,7 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "1901.90.90",
+        "ncm": "19019090",
         "descricao": "MISTURA PARA SORVETE",
         "pis_cofins": "NORMAL",
         "icms": "ST",
@@ -770,38 +770,1214 @@
         "natureza_receita": ""
     },
     {
-        "ncm": "0207.14.00",
+        "ncm": "02071400",
         "descricao": "PESCOÇO DE FRANGO",
         "pis_cofins": "NORMAL",
         "icms": "ST",
         "natureza_receita": ""
     },
     {
-        "ncm": "2106.90.29",
+        "ncm": "21069029",
         "descricao": "PO PARA SORVETE",
         "pis_cofins": "NORMAL",
         "icms": "ST",
         "natureza_receita": ""
     },
     {
-        "ncm": "1905.31.00",
+        "ncm": "19053100",
         "descricao": "ROSQUINHA",
         "pis_cofins": "NORMAL",
         "icms": "ST",
         "natureza_receita": ""
     },
     {
-        "ncm": "1602.32.30",
+        "ncm": "16023230",
         "descricao": "STEAK",
         "pis_cofins": "NORMAL",
         "icms": "ST",
         "natureza_receita": ""
     },
     {
-        "ncm": "teste",
-        "descricao": "TESTE",
-        "pis_cofins": "",
-        "icms": "",
+        "ncm": "22029900",
+        "descricao": "SOROX",
+        "pis_cofins": "MONOFASICO",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "22029900",
+        "descricao": "GUARAVITON",
+        "pis_cofins": "MONOFASICO",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "04022130",
+        "descricao": "CREME DE LEITE",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "85365090",
+        "descricao": "INTERRUPTOR DE VIDRO",
+        "pis_cofins": "NORMAL",
+        "icms": "INDEFINIDO",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "84824000",
+        "descricao": "ROLAMENTOS DE AGULHAS",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "40161010",
+        "descricao": "ANEL DE VEDAÇÃO",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "85123000",
+        "descricao": "BUZINA",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "85119000",
+        "descricao": "INTERRUPTORES",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "96138000",
+        "descricao": "ACENDEDOR DE CIG",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "39191020",
+        "descricao": "FITA ISOLANTE",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "85369090",
+        "descricao": "TERMINAL TUBULAR/COMPRESSÃO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "85119000",
+        "descricao": "ANEL DE AJUSTE ROLAMENTO",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "90303100",
+        "descricao": "AMPERIMETRO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "38200000",
+        "descricao": "LIQUIDO REFRIGERANTE AUTOMOTIVO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "38200000",
+        "descricao": "ADITIVO PARA RADIADOR",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "40103100",
+        "descricao": "CORREIA ALTERNADOR",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "29012900",
+        "descricao": "LIMPA CONTATO",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "34025000",
+        "descricao": "CASA LIMPA E PERFUMA",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "33074900",
+        "descricao": "GLADE GEL LAVANDA 70G",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "22029100",
+        "descricao": "CERVEJA SEM ALCOOL",
+        "pis_cofins": "MONOFASICO",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "33072090",
+        "descricao": "POLVILHO ANTISEPTICO",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "33072090",
+        "descricao": "TALCO PARA PES",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "35079049",
+        "descricao": "AMACIANTE DE CARNES",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "30049099",
+        "descricao": "POLVILHO ANTSEPTICO GRANADO",
+        "pis_cofins": "MONOFASICO",
+        "icms": "ST",
+        "natureza_receita": "002"
+    },
+    {
+        "ncm": "04029900",
+        "descricao": "LEITE CONDENSADO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "16024900",
+        "descricao": "FEIJOADA",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "18063210",
+        "descricao": "CHOCOLATE",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "18063110",
+        "descricao": "CHOCOLATE RECHEADO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "17041000",
+        "descricao": "GOMAS DE MASCAR/CHICLETE",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "24022000",
+        "descricao": "CIGARRO",
+        "pis_cofins": "MONOFASICO",
+        "icms": "ST",
+        "natureza_receita": "101"
+    },
+    {
+        "ncm": "19053200",
+        "descricao": "BOMBOM",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "36049090",
+        "descricao": "ESTALINHO",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "40139000",
+        "descricao": "CAMARA DE AR MOTO",
+        "pis_cofins": "MONOFASICO",
+        "icms": "ST",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "40114000",
+        "descricao": "PNEU DE MOTO",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "84818099",
+        "descricao": "TORNEIRA DE PLASTICO",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "84248990",
+        "descricao": "PULVERIZADOR (DOMICILITARIO)",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "33059000",
+        "descricao": "AGUA OXIGENADA",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "002"
+    },
+    {
+        "ncm": "22041090",
+        "descricao": "VINHO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "19059090",
+        "descricao": "BISCOITO DE POLVILHO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "21041021",
+        "descricao": "CALDO DE CARNE",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "68053020",
+        "descricao": "DISCO FLAP ACO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "21021090",
+        "descricao": "FERMENTO BIOLOGICO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "96039000",
+        "descricao": "VASSOURA DE PELO SINTETICO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "19053100",
+        "descricao": "BISCOITO",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "33072010",
+        "descricao": "BODY SPLASH",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "002"
+    },
+    {
+        "ncm": "59061000",
+        "descricao": "FITA ADESIVA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "35030019",
+        "descricao": "GELATINA SEM SABOR",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "33072010",
+        "descricao": "LEITE DE COLONIA",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "002"
+    },
+    {
+        "ncm": "33072090",
+        "descricao": "PERFUME DE CALCINHA",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "002"
+    },
+    {
+        "ncm": "33049990",
+        "descricao": "OLEO CORPORAL",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "002"
+    },
+    {
+        "ncm": "19021900",
+        "descricao": "MACARRAO ESPAGUETE",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "68043000",
+        "descricao": "PEDRA AFIAR",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "33049910",
+        "descricao": "SERUM FACIAL",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "002"
+    },
+    {
+        "ncm": "34013000",
+        "descricao": "SABONETE INTIMO",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "002"
+    },
+    {
+        "ncm": "82142000",
+        "descricao": "ALICATE DE CUTICULA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "27111910",
+        "descricao": "GAS GLP",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "103"
+    },
+    {
+        "ncm": "34060000",
+        "descricao": "VELAS",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "61069000",
+        "descricao": "TOP DE LYCRA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "30049069",
+        "descricao": "REMEDIO DIPIRONA",
+        "pis_cofins": "MONOFASICO",
+        "icms": "ST",
+        "natureza_receita": "002"
+    },
+    {
+        "ncm": "28289011",
+        "descricao": "AGUA SANITARIA",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "27101932",
+        "descricao": "LUBRIFICANTE MONOVISCOSO",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "33074900",
+        "descricao": "AROMATIZANTE AUTO FRESH",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "002"
+    },
+    {
+        "ncm": "33051000",
+        "descricao": "SHAMPOO",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "002"
+    },
+    {
+        "ncm": "28151100",
+        "descricao": "SODA CAUSTICA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "33059000",
+        "descricao": "TINTA CAPILAR",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "002"
+    },
+    {
+        "ncm": "30049029",
+        "descricao": "SORRISAL",
+        "pis_cofins": "MONOFASICO",
+        "icms": "ST",
+        "natureza_receita": "002"
+    },
+    {
+        "ncm": "84248290",
+        "descricao": "UNIAO IRRIGACAO",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "33059000",
+        "descricao": "AMPOLA CAPILAR",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "002"
+    },
+    {
+        "ncm": "21039011",
+        "descricao": "MAIONESE",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "82015000",
+        "descricao": "TESOURA PODA  PLANTA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "32041700",
+        "descricao": "CORANTE XADREZ",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "82121020",
+        "descricao": "APARELHO DE BARBEAR",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "11041200",
+        "descricao": "AVEIA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "20057000",
+        "descricao": "AZEITONAS",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "15011000",
+        "descricao": "BANHA SUINA",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "19059090",
+        "descricao": "BISCOITO PAPA OVO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "19053200",
+        "descricao": "BOM BOM",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "19059090",
+        "descricao": "BROA DE FUBA",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "61082100",
+        "descricao": "CALCINHA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "11042300",
+        "descricao": "CANJICA DE MILHO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "19053100",
+        "descricao": "CASADINHO",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "25232910",
+        "descricao": "CIMENTO",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "35061010",
+        "descricao": "COLA INSTANTANEA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "20098921",
+        "descricao": "AGUA DE COCO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "85161000",
+        "descricao": "AQUECEDOR AGUA EBULIDOR",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "38245000",
+        "descricao": "ARGAMASSA",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "20052000",
+        "descricao": "BATATA PALHA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "21069090",
+        "descricao": "BEIJINHO MAITA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "39269090",
+        "descricao": "BUCHA PAREDE",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "83021000",
+        "descricao": "DOBRADIÇA",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "07133590",
+        "descricao": "FEIJÃO FRADINHO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "33042090",
+        "descricao": "MASCARA CILIUS",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "002"
+    },
+    {
+        "ncm": "19012090",
+        "descricao": "PAO DE QUEIJO",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "19022000",
+        "descricao": "PASTEL",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "17049020",
+        "descricao": "FINI TUBES",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "21069050",
+        "descricao": "GOMAS DE MASCAR SEM AÇUCAR",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "24029000",
+        "descricao": "TABACO",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "36050000",
+        "descricao": "FOSFORO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "40141000",
+        "descricao": "PRESERVATIVO",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "48131000",
+        "descricao": "SEDA CIGARRO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "96140000",
+        "descricao": "PITEIRA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "82100090",
+        "descricao": "DICHAVADOR",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "73269090",
+        "descricao": "ABRAÇADEIRA (METAL)",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "84248229",
+        "descricao": "ADAPTADOR IRRIGAÇÃO",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "84248229",
+        "descricao": "ADAPTADOR SOLDAVEL",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "84248229",
+        "descricao": "REGISTRO SOLDAVEL",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "84248229",
+        "descricao": "ADESIVO ACIMA DE 100",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "82021000",
+        "descricao": "ARCO DE SERRA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "84248229",
+        "descricao": "BAILARINA RSB",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "85065010",
+        "descricao": "BATERIA BOTAO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "84137090",
+        "descricao": "BOMBA DE AGUA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "84248229",
+        "descricao": "TE REDUÇÃO",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "84818095",
+        "descricao": "REGISTRO ESFERA",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "82021000",
+        "descricao": "SERRA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "84248229",
+        "descricao": "LUVA DE REDUÇÃO",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "84248229",
+        "descricao": "LUVA LONGA",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "84248229",
+        "descricao": "LUVA UNIÃO",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "5321000",
+        "descricao": "CAPACITOR PERMANENTE",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "85444900",
+        "descricao": "CABO FLEX",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "84248229",
+        "descricao": "CONECTOR INICIAL",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "84248229",
+        "descricao": "COTOVELO",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "39209990",
+        "descricao": "FITA VEDA ROSCA",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "84248229",
+        "descricao": "JOELHO 90 IRRIG",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "84248229",
+        "descricao": "MANGEURA IRRIG",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "85381000",
+        "descricao": "QUADRO DE COMANDO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "84813000",
+        "descricao": "VALVULA SUCÇÃO",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "40169300",
+        "descricao": "BORRACHA MIOLO FILTRO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "84248229",
+        "descricao": "BUCHA REDUÇÃO",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "84248229",
+        "descricao": "CHULA",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "84248229",
+        "descricao": "VALVULA SOLENOIDE IRRIG",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "84818092",
+        "descricao": "VALVULA SOLENOIDE",
+        "pis_cofins": "MONOFASICO",
+        "icms": "NORMAL",
+        "natureza_receita": "003"
+    },
+    {
+        "ncm": "39174090",
+        "descricao": "COLAR DE TOMADA IRRG",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "85362000",
+        "descricao": "DISJUNTOR",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "15093000",
+        "descricao": "AZEITE DE OLIVA VIRGEM",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "44029000",
+        "descricao": "CARVÃO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "04069020",
+        "descricao": "QUEIJO DEFUMADO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "04089900",
+        "descricao": "OVOS CODORNA CONCERVA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "08119000",
+        "descricao": "POLPA DE FRUTA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "22019000",
+        "descricao": "GELO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "25010020",
+        "descricao": "SAL DE MESA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "19011020",
+        "descricao": "FARINHA LACTEA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "65069100",
+        "descricao": "TOUCA DE BANHO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "44219900",
+        "descricao": "ESPETO DE CHURRASCO MADEIRA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "44219900",
+        "descricao": "PRENDEDOR DE ROUPA MADEIRA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "40151900",
+        "descricao": "LUVAS DE LATEX",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "40169300",
+        "descricao": "BORRACHA PANELA DE PRESSAO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "64022000",
+        "descricao": "HAVAIANAS",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "19059090",
+        "descricao": "SEQUILHOS",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "3005.10.90",
+        "descricao": "CURATIVOS",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "34025000",
+        "descricao": "DIABO VERDE",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "10063019",
+        "descricao": "ARROZ",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "11062000",
+        "descricao": "FARINHA DE MANDIOCA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "15121911",
+        "descricao": "OLEO DE GIRASSOL (ATÉ 5L)",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "16025000",
+        "descricao": "ALMONDEGA",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "20029000",
+        "descricao": "EXTRATO DE TOMATE",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "20031000",
+        "descricao": "COGUMELO CHAMPIGNON",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "20041000",
+        "descricao": "BATATA PARA FRITAR",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "22029900",
+        "descricao": "AMAZOMIX",
+        "pis_cofins": "MONOFASICO",
+        "icms": "ST",
+        "natureza_receita": "004"
+    },
+    {
+        "ncm": "22029900",
+        "descricao": "ESPUMANTE SEM ALCOOL",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "34029039",
+        "descricao": "AZULIM CERAMICA",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "11042900",
+        "descricao": "TRIGO PARA KIBE",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "350610900",
+        "descricao": "DUREPOXI",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "38089419",
+        "descricao": "PEDRA SANITARIA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "15111000",
+        "descricao": "AZEITE DE DENDE",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "15131900",
+        "descricao": "MANTEIGA DE COCO",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "34021140",
+        "descricao": "LIMPA FOSSA",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "39222000",
+        "descricao": "ASSENTO SANITARIO",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "39263000",
+        "descricao": "LONA DE POLIETILENO",
+        "pis_cofins": "NORMAL",
+        "icms": "NORMAL",
+        "natureza_receita": ""
+    },
+    {
+        "ncm": "73170090",
+        "descricao": "PREGO",
+        "pis_cofins": "NORMAL",
+        "icms": "ST",
         "natureza_receita": ""
     }
 ]
