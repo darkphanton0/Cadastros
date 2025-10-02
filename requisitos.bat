@@ -1,6 +1,4 @@
 python -m pip install --upgrade pip
 python -m pip install requests CustomTKinter flet
 pip install ttkbootstrap pyperclip
-
-
-
+python3 -m pip install --upgrade customtkinter
