@@ -1,3 +1,4 @@
 python -m pip install --upgrade pip
-python -m pip install requests CustomTKinter
+python -m pip install requests CustomTKinter flet
+
 
