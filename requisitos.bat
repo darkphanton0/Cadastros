@@ -1,2 +1,3 @@
 python -m pip install --upgrade pip
-python -m pip install requests customtkinter
+python -m pip install requests CustomTKinter
+
